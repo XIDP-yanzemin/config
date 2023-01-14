@@ -1,7 +1,7 @@
 jpa:
   database-platform: org.hibernate.dialect.MySQL8Dialect
-  url: jdbc:mysql://user-mysql:3308/new_user_db?CreateDatabaseIfNotExist=true
+  url: jdbc:mysql://product-mysql:3306/product_db?CreateDatabaseIfNotExist=true
   username: root
-  password: password
+  password: 123456
   enable: true
   show-sql: true
