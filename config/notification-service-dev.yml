@@ -1,10 +1,10 @@
 jpa:
   database-platform: org.hibernate.dialect.MySQL8Dialect
-  show-sql: true
-  url: jdbc:mysql://localhost:3308/new_user_db?CreateDatabaseIfNotExist=true
+  url: jdbc:mysql://product-mysql:3306/product_db?CreateDatabaseIfNotExist=true
   username: root
-  password: password
+  password: 123456
   enable: true
+  show-sql: true
 mail:
   from: 476865287@qq.com
   host: smtp.qq.com
