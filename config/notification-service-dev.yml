@@ -10,6 +10,6 @@ mail:
   host: smtp.qq.com
   port: 465
   username: 476865287@qq.com
-  password: quutapcyhkwsbgef
+  password: ywbzrlqkomjdbhgc
   enable-ssl: true
   protocol: smtp
